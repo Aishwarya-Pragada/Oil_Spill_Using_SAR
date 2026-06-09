@@ -44,19 +44,19 @@ This project was completed as part of academic coursework during the 4th semeste
 
 ### Streamlit Interface
 
-![Home](results/home.png)
+![Home](home.png)
 
 ### Oil Spill Detection Output
 
-![Oil Spill](results/oil_spill.png)
+![Oil Spill](oil_spill.png)
 
 ### No Oil Spill Case
 
-![No Oil Spill](results/no_spill.png)
+![No Oil Spill](no_spill.png)
 
 ### Model Evaluation
 
-![Evaluation](results/evaluation.png)
+![Evaluation](evaluation.png)
 
 ---
 
